@@ -1,6 +1,6 @@
 package com.demo.interfaces;
 
-public class MyOracleDB implements MyDriver{
+public class MyOracleDB implements MyDriver2{
     @Override
     public String getConnection() {
         return "Oracle  DB";
@@ -9,5 +9,10 @@ public class MyOracleDB implements MyDriver{
     @Override
     public String getDbVersion() {
         return "Oracle DB version 19c";
+    }
+
+    @Override
+    public boolean isClusterSupported() {
+        return true;
     }
 }

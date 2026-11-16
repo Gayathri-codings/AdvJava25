@@ -1,0 +1,11 @@
+Functional interface will have only one funtion.
+
+functional programming
+
+
+functions are classified into 4 types.
+
+fn which returns a boolean value based on something - predicate
+fn which returnd an obj and does not take any argument - supplier
+fn which returnd an obj and  take obj as an arg-- fn
+fu which received an arg and returns void - consumer.
