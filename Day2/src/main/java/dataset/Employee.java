@@ -1,4 +1,4 @@
-package dataset;
+package main.java.dataset;
 
 public record Employee(int id,
                        String name,
