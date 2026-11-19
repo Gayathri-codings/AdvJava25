@@ -1,7 +1,7 @@
 package streams;
 
-import main.java.dataset.Data;
-import main.java.dataset.Employee;
+import dataset.Data;
+import dataset.Employee;
 import org.junit.jupiter.api.Test;
 
 import java.util.DoubleSummaryStatistics;

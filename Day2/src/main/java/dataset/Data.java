@@ -1,4 +1,4 @@
-package main.java.dataset;
+package dataset;
 
 import java.util.List;
 
